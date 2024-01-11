@@ -8,5 +8,4 @@ these include:
   confusion matrix, 
   demographic filtering, 
   data clustering,
-  alphabet + digit recognition,
-  mean & median.
+  alphabet + digit recognition.
