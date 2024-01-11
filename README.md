@@ -7,5 +7,6 @@ these include:
   multi-linear logistic regression, 
   confusion matrix, 
   demographic filtering, 
-  mean, 
-  median.
+  data clustering,
+  alphabet + digit recognition,
+  mean & median.
